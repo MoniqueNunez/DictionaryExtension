@@ -2,6 +2,7 @@
   "name": "Dictionary",
   "description": "Highlight words to get the definition of them",
   "version": "1.0",
+  "manifest_version": 3,
   "permissions": ["activeTab", "contentMenus", "storage"],
   "content_scripts": [
     {
