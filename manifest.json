@@ -3,7 +3,7 @@
   "description": "Highlight words to get the definition of them",
   "version": "1.0",
   "manifest_version": 3,
-  "permissions": ["activeTab", "contentMenus", "storage"],
+  "permissions": ["activeTab", "contextMenus", "storage"],
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
