@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#mac os specific metadata file created by Finder application
+
+.DS_Store
+
+
