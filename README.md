@@ -1,3 +1,0 @@
-# DictionaryExtension
-
-Hackathon
